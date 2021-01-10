@@ -13,3 +13,11 @@ h4 {
 .card-text {
   font-size: 12px;
 }
+
+.primeira-sessao {
+  background-color: grey;
+}
+
+.segunda-sessao {
+  background-color: red;
+}
